@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello humans!
+My name is Lucifer Morningstar and I am the Devil.
